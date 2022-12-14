@@ -1,3 +1,5 @@
+![예선](https://user-images.githubusercontent.com/32426765/207595257-4722c7c3-fe09-461d-8980-289332d71462.jpg)
+
 # 국방 AI 경진대회 코드 사용법
 - NavyNet: 김윤수, 성수영, 김덕현, 김민섭
 

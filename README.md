@@ -1,4 +1,4 @@
-![예선](https://user-images.githubusercontent.com/32426765/207595257-4722c7c3-fe09-461d-8980-289332d71462.jpg)
+![image](https://github.com/biyotteu/Change-Detection/assets/32426765/cd321a57-f632-41b4-aaab-e5db9f2b2558)
 
 # 국방 AI 경진대회 코드 사용법
 - NavyNet: 김윤수, 성수영, 김덕현, 김민섭
